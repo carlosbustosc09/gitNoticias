@@ -1,0 +1,165 @@
+commit ce597923c491cacc7b9d2892f5a7af4ace2abe64
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Wed Nov 23 11:10:49 2022 -0500
+
+    ultimo commit
+
+commit cd658c3a6ab3ea97641db4619ebe2a8f05b1e61b
+Merge: 1a1f49c b44461b
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Wed Nov 23 10:51:07 2022 -0500
+
+    resolviendo conflicto fechas del años y conflicto
+
+commit 1a1f49c7feb1fa7b054e73e5e58788c9d1606fc9
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Wed Nov 23 10:21:26 2022 -0500
+
+    nuevo mensaje para el último commit
+
+commit b44461be479ff3c607ddb4c5f3574340d38694b0
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Wed Nov 23 10:21:26 2022 -0500
+
+    estaciones del año
+
+commit 7078c0442a4c1819137455fbe4ea2161086dab25
+Merge: 0003f9a 06c2fe3
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 18:39:53 2022 -0500
+
+    codigo solucionado
+
+commit 06c2fe38ce97be2d3da02bbdc44359d604092cc6
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 18:27:53 2022 -0500
+
+    se hicieron cambios en la imagen y un subtitulo h2
+
+commit 0003f9aeb06c3f2bdb620fea08cd6370e8cb43b7
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 18:24:44 2022 -0500
+
+    edicion index main
+
+commit 34c23586a1449df232dc7196f9598a9b14ce436a
+Merge: aeb7328 e325b9f
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 17:24:26 2022 -0500
+
+    Merge branch 'html'
+
+commit e325b9fba8b81016ef59641bf7de6c216d169b83
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 17:22:20 2022 -0500
+
+    se agrego la etiqueta script del archivo funcion.js
+
+commit aeb7328c807e1f85748e5e9664202e73e6f54245
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 17:18:40 2022 -0500
+
+    se agrego archivo style.css al index, y ul y 6 li
+
+commit a9f5a034e99ef2fb4f146698d9aa23e9b21c646c
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 16:52:58 2022 -0500
+
+    ultimo ajuste
+
+commit 3d27894664e73e639ff64961a39c9fdf717a9184
+Merge: 6f08594 1ed285b
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Mon Nov 21 16:34:51 2022 -0500
+
+    Merge branch 'js'
+
+commit 1ed285b3e794056377dcde34bfb83056d97d3095
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sun Nov 20 19:59:56 2022 -0500
+
+    creando archivo.js
+
+commit 6f085945c1d6a44906a59f3e8cc07bd1152bfdba
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sun Nov 20 19:50:17 2022 -0500
+
+    cabecera
+
+commit 183fb319972baff022ca4a19e3bcd04be95d873e
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sun Nov 20 19:42:32 2022 -0500
+
+    primer archivo en html
+
+commit 1e0b04de165020adba090405f08ae0cc0d8c19c9
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sat Nov 19 11:17:43 2022 -0500
+
+    ignore2
+
+commit 5b5cf7fd95e76cff86fc75a83f8672095ffb30ad
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sat Nov 19 11:17:03 2022 -0500
+
+    ignorar archivo.html
+
+commit 80e6e358e906eb1f2638542aec61258089ddeb42
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Sat Nov 19 08:42:14 2022 -0500
+
+    mensaje text nuevo
+
+commit f9a75e2a9e66d478285c5bc45bbce9d1f5f33606
+Author: carlosbustosc09 <118564521+carlosbustosc09@users.noreply.github.com>
+Date:   Sat Nov 19 08:22:28 2022 -0500
+
+    creando licencia del repositorio
+
+commit 364aa46a7329a18eee388c35436d391efdab0f8e
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 17:26:18 2022 -0500
+
+    se pusieron etiquetas html
+
+commit edb2c9dcff096d6caacb4b71b490a447fb1cc271
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 17:25:00 2022 -0500
+
+    se agrego parrafo
+
+commit 703a2574cc57756584e91c1d80666bda292cbf72
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 16:12:50 2022 -0500
+
+    funciona
+
+commit 1f583d2af6fbae899bcc4bc47e3b70c612ea3bf0
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 15:41:47 2022 -0500
+
+    este si es
+
+commit d4d76f26b9ea5f42a7ccb44225017eccfeda4ed7
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 14:57:24 2022 -0500
+
+    mme
+
+commit 4022dbd414918b5f74c4d65137e62e7676580c68
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 14:34:32 2022 -0500
+
+    gran mensaje
+
+commit de4f225b07ba05e7ea4f713a3c78812479c6eed7
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 14:21:05 2022 -0500
+
+    seguimos con las pruebas
+
+commit dd4e1e9a58e260ea88da145e3b52c27105fea94e
+Author: carlosbustosc09 <carlosbustosneira236@gmail.com>
+Date:   Fri Nov 18 14:20:06 2022 -0500
+
+    volviendo a probar
